@@ -1,7 +1,7 @@
 {
   "name": "kellton-backend",
   "version": "1.0.0",
-  "description": "All the APTs related to Ecommerce Website",
+  "description": "All the APIs related to Ecommerce Website",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nitesh9609/kellton-backend.git"
+    "url": "git+https://github.com/dasurahul/kellton-backend.git"
   },
-  "author": "\"Nitesh\"",
+  "author": "\"Rahul\"",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nitesh9609/kellton-backend/issues"
+    "url": "https://github.com/dasurahul/kellton-backend/issues"
   },
-  "homepage": "https://github.com/Nitesh9609/kellton-backend#readme",
+  "homepage": "https://github.com/dasurahul/kellton-backend#readme",
   "dependencies": {
     "@hapi/joi": "^17.1.1",
     "bcryptjs": "^2.4.3",
